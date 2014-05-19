@@ -1,8 +1,8 @@
 Locochoco : la pieuvre des maths
 =================================
 
-Locochoco est un exerciseur de CALCUL MENTAL pour l'école primaire.
-Les objectifs pédagogiques sont tirés des Programmes officiels de l'Education Nationale (celle-ci préconise une pratique de 15min de calcul mental par jour).
+Locochoco est un exerciseur de CALCUL MENTAL pour l'école élémentaire.
+Les objectifs pédagogiques sont tirés des Programmes officiels du Ministère de l'Education Nationale (lequel préconise une pratique de 15min de calcul mental par jour) : http://www.education.gouv.fr/cid38/horaires-et-programmes.html
 
 ![locochoco](http://g.rouan.free.fr/locochoco/img/pieuvre.png)
 
