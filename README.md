@@ -36,4 +36,4 @@ Développements à venir
 
 Licence
 =======
-Ce code est proposé sous licence Creative Commons Attribution 4.0 International (CC BY 4.0) http://creativecommons.org/licenses/by/4.0/
+Locochoco est proposé sous licence Attribution 4.0 International (CC BY 4.0) http://creativecommons.org/licenses/by/4.0/
